@@ -4,14 +4,13 @@
 }
 
 p {
-    text-align: center;
     vertical-align: middle;
-    padding-top: 25%;
+    padding-top: 20%;
     font-family: 'HelveticaNeue'
 }
 
 ::selection {
-    background: #3390ff;
+    background: #2ee449a2;
     color: white;
     text-shadow: 1px 1px 1px white, 1px -1px 1px white, -1px 1px 1px white, -1px -1px 1px white;
 }
